@@ -1,11 +1,11 @@
-# Design Pattern - SPA
+# Wizard Crud - SPA
 ![GitHub language count](https://img.shields.io/github/languages/count/juliosn/Wizard_CRUD_SPA?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/juliosn/Wizard_CRUD_SPA?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/Wizard_CRUD_SPA?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/Wizard_CRUD_SPA?style=for-the-badge)
 
 ## Sobre
-Tarefa desenvolvida para trabalhar com o padrão de projeto SPA com JavaScript reutilizando um projeto previamente desenvolvido.
+Tarefa desenvolvida para trabalhar com o padrão de projeto SPA com JavaScript reutilizando um projeto previamente desenvolvido. Uma SPA (Single Page Application) é um tipo de aplicação web que funciona dentro de uma única página HTML. Em vez de recarregar a página inteira quando o usuário navega para diferentes seções da aplicação, uma SPA carrega e atualiza o conteúdo dinamicamente usando JavaScript. Isso resulta em uma experiência de usuário mais rápida e fluida, similar à de uma aplicação desktop.
 
 <h2>Cadastrar</h2>
 <img src="https://github.com/user-attachments/assets/ec9c83eb-21a6-4d0e-8541-d048ecb0d9e1">
